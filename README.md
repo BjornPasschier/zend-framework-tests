@@ -1,2 +1,2 @@
-# zend-framework-tests
-Learning and testings zendframework 3
+# Zend Framework
+This repo is my learning and testing repo for Zend Framework 3
